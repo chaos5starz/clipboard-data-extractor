@@ -1,2 +1,2 @@
 # clipboard-data-extractor
-A simple Python tool to extract Egyptian phone numbers and emails from clipboard text, then copy the cleaned results back to the clipboard.
+A lightweight Python script that extracts Egyptian phone numbers and email addresses from any copied text. It then copies the cleaned data back to your clipboard for quick use.
